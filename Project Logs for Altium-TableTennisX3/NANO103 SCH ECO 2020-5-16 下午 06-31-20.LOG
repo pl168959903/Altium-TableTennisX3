@@ -1,0 +1,26 @@
+Change Value of Parameter Value in Part C11 Old=20pF New=0.1uf
+Change Value of Parameter Value in Part C12 Old=20pF New=0.1uf
+Change Value of Parameter Value in Part C13 Old=20pF New=0.1uf
+Change Value of Parameter Value in Part C14 Old=20pF New=0.1uf
+Change Component Parameter Comment in L1 Old= New=Inductor
+Change Component Parameter Comment in L2 Old= New=Inductor
+Change Value of Parameter Value in Part R12 Old=1M New=1K
+Change Value of Parameter Value in Part R13 Old=1M New=1K
+Change Value of Parameter Value in Part X2 Old=32.768K New=12MHz
+Replace Symbol from C8 Cap in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C9 Cap in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C10 Cap in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C11 Cap in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C12 Cap in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C13 Cap in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C14 Cap in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C15 Cap in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C16 Cap in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C17 Cap in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from L1 Inductor in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Inductor from ZGR.IntLib
+Replace Symbol from L2 Inductor in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Inductor from ZGR.IntLib
+Replace Symbol from R12 Res in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Res from ZGR.IntLib
+Replace Symbol from R13 Res in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Res from ZGR.IntLib
+Replace Symbol from U4 NANO103SD3AE in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with NANO103SD3AE from NUVOTON.IntLib
+Replace Symbol from X1 Xtal in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Xtal from ZGR.IntLib
+Replace Symbol from X2 Xtal in D:\Altium\Project\Altium-TableTennisX3\NANO103.SchDoc with Xtal from ZGR.IntLib

@@ -1,0 +1,21 @@
+Added Component: Designator=U1(QFN_24_3X3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ICM-20948"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-24 InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ICM-20948/TDK%20InvenSense/view-part/578927/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LDO Pin=U1-8
+Added Pin To Net: NetName=SPI0_MISO Pin=U1-9
+Added Pin To Net: NetName=NetC1_1 Pin=U1-10
+Added Pin To Net: NetName=PE5 Pin=U1-11
+Added Pin To Net: NetName=INT1 Pin=U1-12
+Added Pin To Net: NetName=V33 Pin=U1-13
+Added Pin To Net: NetName=VSS Pin=U1-18
+Added Pin To Net: NetName=VSS Pin=U1-20
+Added Pin To Net: NetName=SPI0_SS Pin=U1-22
+Added Pin To Net: NetName=SPI0_SCLK Pin=U1-23
+Added Pin To Net: NetName=SPI0_MOSI Pin=U1-24
+Added Pin To Net: NetName=VSS Pin=U1-25
+Added Member To Class: ClassName=U_ICM_20948 Member=Component U1 ICM-20948

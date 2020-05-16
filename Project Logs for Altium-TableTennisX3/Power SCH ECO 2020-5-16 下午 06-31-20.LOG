@@ -1,0 +1,34 @@
+Change Value of Parameter Value in Part C4 Old=1uF New=0.1uf
+Change Value of Parameter Value in Part C5 Old=10uF New=0.1uf
+Change Value of Parameter Value in Part C6 Old=1uF New=0.1uf
+Change Value of Parameter Value in Part C7 Old=1uF New=0.1uf
+Change Value of Parameter Value in Part R1 Old=100K New=1K
+Change Value of Parameter Value in Part R2 Old=1.5K New=1K
+Change Value of Parameter Value in Part R3 Old=10K New=1K
+Change Value of Parameter Value in Part R4 Old=10K New=1K
+Change Value of Parameter Value in Part R5 Old=100K New=1K
+Change Value of Parameter Value in Part R6 Old=1M New=1K
+Change Value of Parameter Value in Part R7 Old=2K New=1K
+Change Value of Parameter Value in Part R8 Old=10K New=1K
+Replace Symbol from C4 Cap in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C5 Cap in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C6 Cap in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C7 Cap in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from D1 B5819WT in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with B5819WT from ZGR.IntLib
+Replace Symbol from D2 B5819WT in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with B5819WT from ZGR.IntLib
+Replace Symbol from D3 B5819WT in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with B5819WT from ZGR.IntLib
+Replace Symbol from D4 B5819WT in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with B5819WT from ZGR.IntLib
+Replace Symbol from Q1 SI2301DS-T1 in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with SI2301DS-T1 from ZGR.IntLib
+Replace Symbol from Q2 SI2301DS-T1 in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with SI2301DS-T1 from ZGR.IntLib
+Replace Symbol from Q3 MMS9013L-TP in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with MMS9013L-TP from ZGR.IntLib
+Replace Symbol from R1 Res in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Res from ZGR.IntLib
+Replace Symbol from R2 Res in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Res from ZGR.IntLib
+Replace Symbol from R3 Res in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Res from ZGR.IntLib
+Replace Symbol from R4 Res in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Res from ZGR.IntLib
+Replace Symbol from R5 Res in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Res from ZGR.IntLib
+Replace Symbol from R6 Res in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Res from ZGR.IntLib
+Replace Symbol from R7 Res in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Res from ZGR.IntLib
+Replace Symbol from R8 Res in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Res from ZGR.IntLib
+Replace Symbol from SW1 Switch_Button1 in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with Switch_Button1 from ZGR.IntLib
+Replace Symbol from U2 TP4059 in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with TP4059 from ZGR.IntLib
+Replace Symbol from U3 AP2112K-3.3TRG1 in D:\Altium\Project\Altium-TableTennisX3\Power.SchDoc with AP2112K-3.3TRG1 from ZGR.IntLib
