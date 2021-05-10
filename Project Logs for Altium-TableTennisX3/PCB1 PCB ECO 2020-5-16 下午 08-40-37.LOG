@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=VBAT Pin=J2-1
-Removed Pin From Net: NetName=VSS Pin=J2-2
-Added Pin To Net: NetName=VSS Pin=J2-1
-Added Pin To Net: NetName=VBAT Pin=J2-2
